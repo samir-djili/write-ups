@@ -5,7 +5,6 @@
 **Challenge Name:** Pachinko  
 **Category:** Web  
 **Difficulty:** Medium  
-**Points:** [Points Value]  
 **Description:** A NAND gate circuit simulator that processes user-submitted circuits and returns flags based on specific conditions.
 
 ## Challenge Analysis
